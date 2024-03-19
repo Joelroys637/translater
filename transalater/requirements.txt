@@ -1,4 +1,3 @@
-streamlit
-googletrans
-gtts
-io
+streamlit==0.69.2
+googletrans==4.0.0-rc1
+gtts==0.90.0
